@@ -2,7 +2,7 @@
 
 This Jupyter Notebook (`AirbnbEu.ipynb`) contains a comprehensive exploratory data analysis of AirBnB listings across several major European cities. The project aims to provide data-driven insights into listing distribution, price dynamics, and host activity. The purpose of this project is to reproduce the valuable insights provided by the website Inside AirBnb without having access to the same data as the creators.
 
-<img src="./images/dash-app.png" alt="Dash App" width="400"/>
+<img src="./images/dash-app.png" alt="Dash App" width="600"/>
 
 ### 1. AirBnB Listings Overview
 
